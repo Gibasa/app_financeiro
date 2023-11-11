@@ -11,6 +11,13 @@ Este é um simples projeto de controle financeiro e conversor de moedas desenvol
    - Obtém dados de uma API de câmbio para listar as moedas disponíveis.
    - Permite ao usuário escolher uma moeda e converter um valor para essa moeda.
    - Fornece uma interface simples com um campo de entrada, lista suspensa e botão de conversão.
+### Teste Online
+
+- Você pode testar a aplicação online [aqui](https://replit.com/@GilbertoSa/App-Financeiro).
+
+### Vídeo de Demonstração
+
+- Assista a um vídeo de demonstração [aqui](https://drive.google.com/file/d/1PZNI-1gUONKQlGZjgNPIPr7bHIQeCiUz/view?usp=drive_link).
 
 ### Estrutura do Código
 
